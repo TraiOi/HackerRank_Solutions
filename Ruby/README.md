@@ -52,3 +52,14 @@
   * [x] Arguments
   * [x] Keyword Arguments
  * Hard
+
+#### Ruby Strings
+ * Easy
+  * [x] Introduction
+  * [x] Encoding
+  * [x] Indexing
+  * [x] Iteration
+  * [x] Methods I
+  * [x] Methods II
+ * Medium
+ * Hard
