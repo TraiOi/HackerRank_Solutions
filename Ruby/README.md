@@ -32,3 +32,14 @@
   * [x] Hash - Addition, Deletion, Selection
  * Medium
  * Hard
+
+#### Enumerables
+ * Easy
+ * Medium
+  * [x] Introduction
+  * [x] each_with_index
+  * [x] collect
+  * [x] reduce
+  * [x] any, all, none, find
+  * [x] group_by
+ * Hard
