@@ -18,3 +18,17 @@
  * Medium
   * [x] Case (Bonus Question)
  * Hard
+
+#### Arrays & Hashes 
+ * Easy
+  * [x] Array - Intialization
+  * [x] Array - Index, Part 1
+  * [x] Array - Index, Part 2
+  * [x] Array - Addition
+  * [x] Array - Deletion
+  * [x] Array - Selection
+  * [x] Hash - Intialization
+  * [x] Hash - Each
+  * [x] Hash - Addition, Deletion, Selection
+ * Medium
+ * Hard
