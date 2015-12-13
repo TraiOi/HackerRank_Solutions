@@ -43,3 +43,12 @@
   * [x] any, all, none, find
   * [x] group_by
  * Hard
+
+#### Methods
+ * Easy
+  * [x] Introduction
+  * [x] Variable Arguments
+ * Medium
+  * [x] Arguments
+  * [x] Keyword Arguments
+ * Hard
