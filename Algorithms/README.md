@@ -14,7 +14,7 @@
 
 #### Implementation
  * Easy
-  * [ ] Angry Professor
+  * [x] Angry Professor
   * [ ] Sherlock and The Beast
   * [ ] Uptopian Tree
   * [ ] Find Digits
