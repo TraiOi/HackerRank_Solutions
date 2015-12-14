@@ -36,6 +36,7 @@ for a0 in (0..t-1)
     k = k.to_i
     a = gets.strip
     a = a.split(' ').map(&:to_i)
+    #Code here.
     a.each{|x| k-=1 if x<=0 }
     puts k<=0 ? "NO" : "YES"
 end
