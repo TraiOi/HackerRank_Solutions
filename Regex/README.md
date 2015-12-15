@@ -8,12 +8,12 @@
   * [x] Matching Whitespace & Non-Whitespace Character
   * [x] Matching Word & Non-Word Character
   * [x] Matching Start & End
-  * [ ] HackerRank Tweets
-  * [ ] Utopian Identification Number
-  * [ ] Find HackerRank
-  * [ ] Split the Phone Numbers
-  * [ ] Saying Hi
-  * [ ] HackerRank Language
+  * [x] HackerRank Tweets
+  * [x] Utopian Identification Number
+  * [x] Find HackerRank
+  * [x] Split the Phone Numbers
+  * [x] Saying Hi
+  * [x] HackerRank Language
   * [ ] The British and American Style of Spelling
   * [ ] Find A Substring
   * [ ] Alien Username
